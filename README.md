@@ -4,4 +4,4 @@
 Файлы: 
 - html
 - css
-- .jpg
+- jpg
